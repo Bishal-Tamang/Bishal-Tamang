@@ -41,10 +41,11 @@
 
 ### ⚡&ensp;Social Media
 
+<br />
 
-[<img align="center" alt="Bishal Tamang | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />]([https://www.facebook.com/shuvu00](https://www.facebook.com/profile.php?id=100011050750451))&ensp;Facebook: [@BishalTamang](https://www.facebook.com/profile.php?id=100011050750451)
+[<img align="center" alt="Bishal Tamang | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />]([https://www.facebook.com/profile.php?id=100011050750451](https://www.facebook.com/profile.php?id=100011050750451))&ensp;Facebook: [@BishalTamang](https://www.facebook.com/profile.php?id=100011050750451)
 
-[<img align="center" alt="Bishal Tamang | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />]([https://www.linkedin.com/in/shuvam-koirala](https://www.linkedin.com/in/bishal-tamang/))&ensp;LinkedIn: [@BishalTamang](https://www.linkedin.com/in/bishal-tamang/)
+[<img align="center" alt="Bishal Tamang | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />]([https://www.linkedin.com/in/bishal-tamang](https://www.linkedin.com/in/bishal-tamang/))&ensp;LinkedIn: [@BishalTamang](https://www.linkedin.com/in/bishal-tamang/)
 
 [<img align="center" alt="Bishal Tamang | GitHub" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />](https://github.com/Bishal-Tamang)&ensp;GitHub: [@BishalTamang](https://github.com/Bishal-Tamang)
 
