@@ -20,6 +20,8 @@
 - 📫  How to reach me **tbishal078@gmail.com**
 
 - 😄  Gamer-Tag: Pixel
+  
+- ⚡  Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer 😉😉
 
  </div>
 
