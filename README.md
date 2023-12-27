@@ -13,7 +13,7 @@
  
  - 🔭 I’m currently working on **a Learning Management System**
  
- - 🌱 I’m currently learning **Next.js**
+ - 🌱 I’m currently learning and progressing my Career on **React.js | Next.js**
  
 - 💬  We can have some discussions on interesting tech topics.
 
