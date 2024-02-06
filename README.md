@@ -11,7 +11,7 @@
 
 <div align="left">
  
- - 🔭 I’m currently working on **a Learning Management System**
+ - 🔭 I’m currently working on **personal projects of my own**
  
  - 🌱 I’m currently learning and progressing my Career on **React.js | Next.js**
  
